@@ -17,7 +17,7 @@ Este repositorio está dedicado a la planificación semanal. Vamos a realizar la
 
 
 ## Planificación semana 15: 20 al 25 de julio 2020
-![alt text](https://github.com/Practicum42-MP-20201/actividad6-planificacionessemanales-mpjaramillo/blob/master/PlanificacionSEM13.PNG)
+![alt text](https://github.com/Practicum42-MP-20201/actividad6-planificacionessemanales-mpjaramillo/blob/master/9ED22527-5829-4A2B-8960-A22003C22F2F.png)
 * **Hito más importante de la semana**: Correcciones pro tribunal, solucionar IPFS
 * **Actividades logradas**: 
 
