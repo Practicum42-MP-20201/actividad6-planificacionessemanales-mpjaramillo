@@ -22,6 +22,6 @@ Este repositorio está dedicado a la planificación semanal. Vamos a realizar la
 * **Actividades logradas**: 
 
 ## Planificación semana 16: 26 de julio al 01 de agosto 2020
-![alt text](https://github.com/Practicum42-MP-20201/actividad6-planificacionessemanales-mpjaramillo/blob/master/PlanificacionSEM14.PNG)
+![alt text](https://github.com/Practicum42-MP-20201/actividad6-planificacionessemanales-mpjaramillo/blob/master/FD44D1FA-37DA-453B-8630-B6FB6B793194.png)
 * **Hito más importante de la semana**: Validación del caso con el prototipo / Documentación completa
 * **Actividades logradas**: 
