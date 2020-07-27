@@ -19,9 +19,10 @@ Este repositorio está dedicado a la planificación semanal. Vamos a realizar la
 ## Planificación semana 15: 20 al 25 de julio 2020
 ![alt text](https://github.com/Practicum42-MP-20201/actividad6-planificacionessemanales-mpjaramillo/blob/master/9ED22527-5829-4A2B-8960-A22003C22F2F.png)
 * **Hito más importante de la semana**: Correcciones pro tribunal, solucionar IPFS
-* **Actividades logradas**: 
+* **Actividades logradas**: Correcciones prototipo, paper para LACLO 2020
 
 ## Planificación semana 16: 26 de julio al 01 de agosto 2020
-![alt text](https://github.com/Practicum42-MP-20201/actividad6-planificacionessemanales-mpjaramillo/blob/master/FD44D1FA-37DA-453B-8630-B6FB6B793194.png)
+![alt text](https://github.com/Practicum42-MP-20201/actividad6-planificacionessemanales-mpjaramillo/blob/master/planificacion.PNG)
 * **Hito más importante de la semana**: Validación del caso con el prototipo / Documentación completa
 * **Actividades logradas**: 
+
